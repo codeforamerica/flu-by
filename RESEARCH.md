@@ -4,13 +4,14 @@ Links regarding the flu.  [CDC Flu App Challenge](http://fluapp.challenge.gov/)
 
 * [CDC Prevention tips](http://www.cdc.gov/flu/protect/preventing.htm)
 * [Flu.goc](http://www.flu.gov/)
+* [Flu and Twitter article](http://www.sciencedaily.com/releases/2010/09/100928153809.htm)
 
 ## Data
 
 * [CDC Immunization coverage data by State and by Month (excel)](http://www.cdc.gov/flu/professionals/vaccination/reporti1011/resources/2010-11_Coverage.xls)
 * [Google FluTrend US Data (text)](http://www.google.org/flutrends/us/data.txt)
 * [Flunet](http://www.who.int/csr/disease/influenza/influenzanetwork/flunet/en/): Lots of data but very hard to get to.
-* [Worldbank data](http://projects.flowingdata.com/walmart/)
+* [Worldbank data](http://data.worldbank.org/)
 
 
 ## Visualizations
@@ -26,6 +27,11 @@ Links regarding the flu.  [CDC Flu App Challenge](http://fluapp.challenge.gov/)
 * [Tornadoes by hour (javascript)](http://www.nytimes.com/interactive/2011/04/28/us/map-of-the-tornadoes-across-the-south.html)
 * [School data comparison](http://nbcscorecard.greatschools.org/)
 * [Walmart growth timeline map](http://projects.flowingdata.com/walmart/)
+* [CNN War Casualties](http://www.cnn.com/SPECIALS/war.casualties/index.html)
+
+## Possible Tools
+
+* [Google Predict](http://code.google.com/apis/predict/)
 
 ## Site Design Inspiration
 
