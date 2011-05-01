@@ -1,10 +1,22 @@
+body {
+  background-color: #333333;
+}
+
 #header {
-  height: 75px;
   background-color: #999999;
+  height: 50px;
+}
+
+h1 {
+  line-height: 50px;
+  font-size: 2em;
+  width: 200px;
+  float: right;
+  text-align: right;
+  padding-right: 1em;
 }
 
 #main {
-  height: 500px;
 }
 
 #footer {
@@ -12,7 +24,15 @@
   background-color: #333333;
 }
 
-#main-map {
-  width: 100%;
+#map-primary {
+  width: 50%;
   height: 400px;
+  float: left;
+  display: block;
+}
+#map-secondary {
+  width: 50%;
+  height: 400px;
+  float: right;
+  display: block;
 }

@@ -9,18 +9,27 @@ document.namespaces;
  */
 (function($) {
   $(document).ready(function() {
-    var mapID = 'map-main';
-    
     var mm = com.modestmaps;
-    var m = new mm.Map(
-      'map-main',
+    
+    // Primary map
+    var mPrimary = new mm.Map(
+      'map-primary',
       new com.modestmaps.WaxProvider({
         baseUrl: 'http://a.tiles.mapbox.com/mapbox/',
         layerName: 'world-light'
       })
     );
+    mPrimary.setCenterZoom(new com.modestmaps.Location(38.8225909, -97.5585), 4);
     
-    m.setCenterZoom(new com.modestmaps.Location(38.8225909, -97.5585), 4);
+    // Secondary map
+    var mSecondary = new mm.Map(
+      'map-secondary',
+      new com.modestmaps.WaxProvider({
+        baseUrl: 'http://a.tiles.mapbox.com/mapbox/',
+        layerName: 'world-light'
+      })
+    );
+    mSecondary.setCenterZoom(new com.modestmaps.Location(38.8225909, -97.5585), 5);
     
     
     
