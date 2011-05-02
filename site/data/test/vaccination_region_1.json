@@ -1,0 +1,2244 @@
+{
+  "rows" : [
+    {
+      "Month" : "November",
+      "Area†" : "HHS Region 1",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 46,
+      "95% CI¶" : "(±1.9)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 44.1,
+      "95% CI¶" : "(±2.0)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 31.3,
+      "95% CI¶" : "(±2.9)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 44.2,
+      "95% CI¶" : "(±7.6)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 49.7,
+      "95% CI¶" : "(±3.1)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 75.1,
+      "95% CI¶" : "(±2.7)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "HHS Region 1",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 52.9,
+      "95% CI¶" : "(±4.9)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "HHS Region 1",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 65.9,
+      "95% CI¶" : "(±8.5)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "HHS Region 1",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 54,
+      "95% CI¶" : "(±7.7)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "HHS Region 1",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : 43.3,
+      "95% CI¶" : "(±8.4)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Connecticut",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 44.2,
+      "95% CI¶" : "(±3.4)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 43,
+      "95% CI¶" : "(±3.5)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 30.3,
+      "95% CI¶" : "(±5.3)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 43.1,
+      "95% CI¶" : "(±13.9)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 48.3,
+      "95% CI¶" : "(±5.9)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 74.3,
+      "95% CI¶" : "(±4.9)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Connecticut",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 48.5,
+      "95% CI¶" : "(±9.0)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Connecticut",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 60.3,
+      "95% CI¶" : "(±17.0)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Connecticut",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 48.6,
+      "95% CI¶" : "(±14.1)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Connecticut",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : 38,
+      "95% CI¶" : "(±15.1)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Maine",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 48.1,
+      "95% CI¶" : "(±4.0)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 47.6,
+      "95% CI¶" : "(±4.3)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 35,
+      "95% CI¶" : "(±6.7)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 50.7,
+      "95% CI¶" : "(±17.1)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 52.6,
+      "95% CI¶" : "(±6.1)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 74.6,
+      "95% CI¶" : "(±6.3)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Maine",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 50.2,
+      "95% CI¶" : "(±9.9)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Maine",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 52.8,
+      "95% CI¶" : "(±22.7)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Maine",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 53.9,
+      "95% CI¶" : "(±13.4)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Maine",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : 42.8,
+      "95% CI¶" : "(±16.9)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Massachusetts",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 46.3,
+      "95% CI¶" : "(±3.8)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 43,
+      "95% CI¶" : "(±4.3)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 29.4,
+      "95% CI¶" : "(±5.9)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 41.3,
+      "95% CI¶" : "(±16.9)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 49.3,
+      "95% CI¶" : "(±6.7)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 77.1,
+      "95% CI¶" : "(±5.7)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Massachusetts",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 58.2,
+      "95% CI¶" : "(±8.3)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Massachusetts",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 74,
+      "95% CI¶" : "(±12.9)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Massachusetts",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 60.8,
+      "95% CI¶" : "(±12.9)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Massachusetts",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : 45.6,
+      "95% CI¶" : "(±13.9)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "New Hampshire",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 42.8,
+      "95% CI¶" : "(±3.9)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 43.3,
+      "95% CI¶" : "(±3.7)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 31.3,
+      "95% CI¶" : "(±5.7)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 43.8,
+      "95% CI¶" : "(±16.5)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 49.1,
+      "95% CI¶" : "(±6.1)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 72,
+      "95% CI¶" : "(±5.1)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "New Hampshire",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 41,
+      "95% CI¶" : "(±12.0)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "New Hampshire",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 62.6,
+      "95% CI¶" : "(±16.4)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "New Hampshire",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 34.1,
+      "95% CI¶" : "(±20.0)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "New Hampshire",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : 34.2,
+      "95% CI¶" : "(±17.4)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Rhode Island",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 51.8,
+      "95% CI¶" : "(±4.4)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 49,
+      "95% CI¶" : "(±4.5)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 38.2,
+      "95% CI¶" : "(±6.9)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 51,
+      "95% CI¶" : "(±16.9)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 52.5,
+      "95% CI¶" : "(±6.5)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 75.7,
+      "95% CI¶" : "(±5.7)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Rhode Island",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 62.1,
+      "95% CI¶" : "(±12.3)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Rhode Island",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 66.2,
+      "95% CI¶" : "(±16.2)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Rhode Island",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 53.9,
+      "95% CI¶" : "(±14.5)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Rhode Island",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : 71.8,
+      "95% CI¶" : "(±21.8)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Vermont",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 41.6,
+      "95% CI¶" : "(±3.7)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 42.9,
+      "95% CI¶" : "(±4.1)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 29.5,
+      "95% CI¶" : "(±5.9)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 45,
+      "95% CI¶" : "(±15.9)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 47.1,
+      "95% CI¶" : "(±6.1)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 75.4,
+      "95% CI¶" : "(±5.5)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Vermont",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 36.4,
+      "95% CI¶" : "(±8.7)"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Vermont",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 52.2,
+      "95% CI¶" : "(±14.4)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Vermont",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 35.9,
+      "95% CI¶" : "(±13.0)¥"
+    },
+    {
+      "Month" : "November",
+      "Area†" : "Vermont",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : 25.7,
+      "95% CI¶" : "(±14.2)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "HHS Region 1",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 31.4,
+      "95% CI¶" : "(±1.4)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 29.8,
+      "95% CI¶" : "(±1.4)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 20.2,
+      "95% CI¶" : "(±2.0)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 29.1,
+      "95% CI¶" : "(±5.9)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 34.1,
+      "95% CI¶" : "(±2.4)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 53.2,
+      "95% CI¶" : "(±2.5)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "HHS Region 1",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 37.3,
+      "95% CI¶" : "(±4.4)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "HHS Region 1",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 43.9,
+      "95% CI¶" : "(±7.3)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "HHS Region 1",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 38.5,
+      "95% CI¶" : "(±6.5)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "HHS Region 1",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : 31.4,
+      "95% CI¶" : "(±7.9)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Connecticut",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 29.6,
+      "95% CI¶" : "(±2.8)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 28.3,
+      "95% CI¶" : "(±2.7)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 19,
+      "95% CI¶" : "(±3.9)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 28.4,
+      "95% CI¶" : "(±12.0)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 31.1,
+      "95% CI¶" : "(±4.7)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 53.2,
+      "95% CI¶" : "(±5.1)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Connecticut",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 34.2,
+      "95% CI¶" : "(±8.4)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Connecticut",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 36.5,
+      "95% CI¶" : "(±14.8)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Connecticut",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 40.9,
+      "95% CI¶" : "(±13.6)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Connecticut",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : 21.2,
+      "95% CI¶" : "(±9.9)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Maine",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 32.2,
+      "95% CI¶" : "(±3.0)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 31.2,
+      "95% CI¶" : "(±3.1)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 21.3,
+      "95% CI¶" : "(±4.7)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 31.4,
+      "95% CI¶" : "(±13.1)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 36,
+      "95% CI¶" : "(±5.3)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 50.9,
+      "95% CI¶" : "(±5.5)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Maine",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 36.1,
+      "95% CI¶" : "(±7.9)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Maine",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 20.8,
+      "95% CI¶" : "(±9.2)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Maine",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 42.7,
+      "95% CI¶" : "(±11.6)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Maine",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : 37.5,
+      "95% CI¶" : "(±16.7)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Massachusetts",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 31.7,
+      "95% CI¶" : "(±2.7)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 29,
+      "95% CI¶" : "(±2.7)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 19.1,
+      "95% CI¶" : "(±3.5)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 29.1,
+      "95% CI¶" : "(±9.8)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 34.7,
+      "95% CI¶" : "(±4.5)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 52.5,
+      "95% CI¶" : "(±5.1)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Massachusetts",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 41.6,
+      "95% CI¶" : "(±7.4)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Massachusetts",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 51.4,
+      "95% CI¶" : "(±11.9)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Massachusetts",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 39.7,
+      "95% CI¶" : "(±10.3)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Massachusetts",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : 38.9,
+      "95% CI¶" : "(±13.8)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "New Hampshire",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 30.5,
+      "95% CI¶" : "(±3.1)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 30.5,
+      "95% CI¶" : "(±2.9)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 21.7,
+      "95% CI¶" : "(±4.5)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 29.6,
+      "95% CI¶" : "(±12.7)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 34.6,
+      "95% CI¶" : "(±4.7)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 52.4,
+      "95% CI¶" : "(±4.9)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "New Hampshire",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 30.6,
+      "95% CI¶" : "(±9.3)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "New Hampshire",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 53.3,
+      "95% CI¶" : "(±17.1)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "New Hampshire",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "New Hampshire",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : 19.6,
+      "95% CI¶" : "(±10.9)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Rhode Island",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 34.8,
+      "95% CI¶" : "(±3.1)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 34.4,
+      "95% CI¶" : "(±3.3)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 24.4,
+      "95% CI¶" : "(±4.9)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 29.8,
+      "95% CI¶" : "(±11.8)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 41.1,
+      "95% CI¶" : "(±5.5)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 55.7,
+      "95% CI¶" : "(±5.5)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Rhode Island",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 36.2,
+      "95% CI¶" : "(±7.6)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Rhode Island",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 51.9,
+      "95% CI¶" : "(±15.2)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Rhode Island",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 33.5,
+      "95% CI¶" : "(±9.5)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Rhode Island",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : 31.1,
+      "95% CI¶" : "(±14.2)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Vermont",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 28.8,
+      "95% CI¶" : "(±2.9)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 29.4,
+      "95% CI¶" : "(±3.1)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 20.2,
+      "95% CI¶" : "(±4.5)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 28.7,
+      "95% CI¶" : "(±12.3)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 31.5,
+      "95% CI¶" : "(±4.7)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 53.1,
+      "95% CI¶" : "(±5.3)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Vermont",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 26.4,
+      "95% CI¶" : "(±7.1)"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Vermont",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 45.4,
+      "95% CI¶" : "(±13.8)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Vermont",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 23.8,
+      "95% CI¶" : "(±10.3)¥"
+    },
+    {
+      "Month" : "October",
+      "Area†" : "Vermont",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "HHS Region 1",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 9.8,
+      "95% CI¶" : "(±0.9)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 8.3,
+      "95% CI¶" : "(±0.8)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 5.8,
+      "95% CI¶" : "(±1.0)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 7.9,
+      "95% CI¶" : "(±2.9)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 9.2,
+      "95% CI¶" : "(±1.2)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 15,
+      "95% CI¶" : "(±1.8)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "HHS Region 1",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 15.1,
+      "95% CI¶" : "(±2.9)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "HHS Region 1",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 18,
+      "95% CI¶" : "(±4.4)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "HHS Region 1",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 16,
+      "95% CI¶" : "(±4.9)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "HHS Region 1",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : 11.7,
+      "95% CI¶" : "(±4.4)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Connecticut",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 7.8,
+      "95% CI¶" : "(±1.9)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 6.4,
+      "95% CI¶" : "(±1.4)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 4.4,
+      "95% CI¶" : "(±2.0)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 7.1,
+      "95% CI¶" : "(±2.4)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 11.8,
+      "95% CI¶" : "(±2.9)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Connecticut",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 12.6,
+      "95% CI¶" : "(±7.2)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Connecticut",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 11.9,
+      "95% CI¶" : "(±6.2)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Connecticut",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Connecticut",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Maine",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 7.5,
+      "95% CI¶" : "(±1.3)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 6.9,
+      "95% CI¶" : "(±1.4)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 4.9,
+      "95% CI¶" : "(±2.0)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 6.4,
+      "95% CI¶" : "(±2.2)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 13.2,
+      "95% CI¶" : "(±2.9)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Maine",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 9.9,
+      "95% CI¶" : "(±3.4)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Maine",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 9.2,
+      "95% CI¶" : "(±5.4)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Maine",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 10.8,
+      "95% CI¶" : "(±4.8)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Maine",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Massachusetts",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 12.1,
+      "95% CI¶" : "(±1.5)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 10.2,
+      "95% CI¶" : "(±1.4)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 7.5,
+      "95% CI¶" : "(±2.0)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 9,
+      "95% CI¶" : "(±4.3)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 10.9,
+      "95% CI¶" : "(±2.4)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 17.9,
+      "95% CI¶" : "(±3.1)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Massachusetts",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 19.2,
+      "95% CI¶" : "(±4.7)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Massachusetts",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 24.9,
+      "95% CI¶" : "(±8.8)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Massachusetts",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 18.7,
+      "95% CI¶" : "(±7.1)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Massachusetts",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : 16.3,
+      "95% CI¶" : "(±8.3)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "New Hampshire",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 7.8,
+      "95% CI¶" : "(±1.6)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 6.5,
+      "95% CI¶" : "(±1.4)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 3.9,
+      "95% CI¶" : "(±2.0)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 8.4,
+      "95% CI¶" : "(±2.5)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 11.6,
+      "95% CI¶" : "(±2.7)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "New Hampshire",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 12.3,
+      "95% CI¶" : "(±5.6)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "New Hampshire",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "New Hampshire",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "New Hampshire",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Rhode Island",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 10.3,
+      "95% CI¶" : "(±1.6)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 9.9,
+      "95% CI¶" : "(±1.8)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 5.8,
+      "95% CI¶" : "(±2.4)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 14.1,
+      "95% CI¶" : "(±3.7)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 16.7,
+      "95% CI¶" : "(±3.7)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Rhode Island",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 11.8,
+      "95% CI¶" : "(±3.3)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Rhode Island",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 14.6,
+      "95% CI¶" : "(±7.0)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Rhode Island",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 12.1,
+      "95% CI¶" : "(±5.1)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Rhode Island",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : 9.5,
+      "95% CI¶" : "(±5.1)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Vermont",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 6,
+      "95% CI¶" : "(±1.1)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 5.2,
+      "95% CI¶" : "(±1.0)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 2.7,
+      "95% CI¶" : "(±1.4)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 4.7,
+      "95% CI¶" : "(±1.8)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 13.5,
+      "95% CI¶" : "(±3.1)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Vermont",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 9.2,
+      "95% CI¶" : "(±4.1)"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Vermont",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Vermont",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "September",
+      "Area†" : "Vermont",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "HHS Region 1",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 1.4,
+      "95% CI¶" : "(±0.3)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 0.6,
+      "95% CI¶" : "(±0.2)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : 0.4,
+      "95% CI¶" : "(±0.2)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 0.8,
+      "95% CI¶" : "(±0.4)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "HHS Region 1",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : 1,
+      "95% CI¶" : "(±0.4)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "HHS Region 1",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 4.2,
+      "95% CI¶" : "(±1.4)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "HHS Region 1",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : 4.2,
+      "95% CI¶" : "(±2.2)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "HHS Region 1",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : 3.8,
+      "95% CI¶" : "(±1.6)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "HHS Region 1",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Connecticut",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 1.2,
+      "95% CI¶" : "(±0.7)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Connecticut",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Connecticut",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Connecticut",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Connecticut",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Connecticut",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Maine",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 0,
+      "95% CI¶" : "(±0.0)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Maine",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Maine",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Maine",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Maine",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Maine",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Massachusetts",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 1.9,
+      "95% CI¶" : "(±0.6)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 0.8,
+      "95% CI¶" : "(±0.4)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : 0.8,
+      "95% CI¶" : "(±0.4)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Massachusetts",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Massachusetts",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : 5.9,
+      "95% CI¶" : "(±2.6)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Massachusetts",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Massachusetts",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Massachusetts",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "New Hampshire",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 0.7,
+      "95% CI¶" : "(±0.3)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : 0.4,
+      "95% CI¶" : "(±0.2)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "New Hampshire",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "New Hampshire",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "New Hampshire",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "New Hampshire",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "New Hampshire",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Rhode Island",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : 0.9,
+      "95% CI¶" : "(±0.4)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : 0,
+      "95% CI¶" : "(±0.0)"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Rhode Island",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Rhode Island",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Rhode Island",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Rhode Island",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Rhode Island",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Vermont",
+      "Category" : "All Persons",
+      "Groups" : "Aged ≥6 mos",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥18 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged 18-49 yrs HR (\u2021)",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged 50-64 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Vermont",
+      "Category" : "Adults",
+      "Groups" : "Aged ≥65 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Vermont",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Vermont",
+      "Category" : "Children",
+      "Groups" : "Aged 6 mos-4 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Vermont",
+      "Category" : "Children",
+      "Groups" : "Aged 5-12 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    },
+    {
+      "Month" : "August",
+      "Area†" : "Vermont",
+      "Category" : "Children",
+      "Groups" : "Aged 13-17 yrs",
+      "Coverage (%)§" : "---£",
+      "95% CI¶" : "---"
+    }
+  ]
+}
