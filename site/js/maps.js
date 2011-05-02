@@ -84,9 +84,15 @@ document.namespaces;
     // Data stuff
     $.getJSON('data/test/vaccination-total.json', function(data) {
       var items = [];
-      $.each(data, function(key, val) {
-        // var geocodeURL = 'http://maps.googleapis.com/maps/api/geocode/json?address=' + val.Area + '&sensor=false';
-        //$.getJSON(geocodeURL, function(data) {});
+      var count = 0;
+      $.each(data.rows, function(key, val) {
+        count++;
+        if (count < 10 && typeof val.Area != 'undefined') {
+          var geocodeURL = 'http://maps.googleapis.com/maps/api/geocode/json?address=' + encodeURIComponent(val.Area) + '&sensor=false';
+          $.getJSON(geocodeURL, function(data) {
+            //console.log(data);
+          });
+        }
       });
     });
     
