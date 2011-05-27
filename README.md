@@ -6,3 +6,5 @@ CDC Flu Challenge App: Flu-by  (name may change)
 * Modernizr
 * jQuery
 * jQuery UI
+
+[![Code for America Tracker](http://stats.codeforamerica.org/codeforamerica/flu-by.png)](http://stats.codeforamerica.org/projects/flu-by)
